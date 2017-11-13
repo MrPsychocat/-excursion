@@ -1,0 +1,35 @@
+h1 {
+  font-family:verdana;
+  font-weight:Normal;
+  font-size:50px;
+  color: white;
+  text-align:center;
+}
+
+h6, h5 {
+  color:aquamarine;
+  font-size:16px;
+  background-color:black;
+  text-align:center;
+}
+
+.cause{
+  background-color:black;
+  text-align:center;
+}
+
+h2, h3{
+  font-family:verdana;
+  font-weight:300;
+  font-size:42px;
+}
+h4{
+  font-family:verdana;
+  font-size:21px;
+  color:grey;
+}
+
+#me{
+  text-align:right;
+  color:gray;
+}
